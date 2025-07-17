@@ -64,7 +64,3 @@ smart-mail-tracker/
 ├── requirements.txt
 └── README.md
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License.
